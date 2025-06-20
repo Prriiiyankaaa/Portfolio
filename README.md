@@ -4,7 +4,7 @@ Welcome to my minimalist and stylish personal website! This project showcases my
 
 ## 🔗 Live Preview
 
-[Click here to view the live website](https://Prriiiyankaaa.github.io/Website)
+[Click here to view the live website](https://Prriiiyankaaa.github.io/Portfolio)
 
 
 ---
